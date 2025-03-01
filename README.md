@@ -39,7 +39,7 @@
 </div>
 
 ###
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/recitativonika/recitativonika/output/github-contribution-grid-snake.svg">
 
-<img src="https://raw.githubusercontent.com/senjataik/senjataik/output/snake.svg" alt="Snake animation" />
 
 ###
